@@ -1,0 +1,1 @@
+Pequeno projeto desenvolvido no curso da hashtag de Python, onde foi botado em conhecimento o ensino básico da bibilioteca Pandas, onde o envio de um relátorio de vendas é feito para um email qualquer.
